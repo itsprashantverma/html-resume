@@ -1,0 +1,28 @@
+body {
+  font-family: "Lora";
+  background-color: #fce2db;
+}
+
+h1 {
+  font-family: "Ubuntu";
+  font-weight: bolder;
+  font-size: 20px;
+  color: black;
+}
+
+i {
+  color: #b270a2;
+  font-size: larger;
+}
+
+.per {
+  color: #b270a2;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
